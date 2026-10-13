@@ -126,30 +126,6 @@ Minha jornada envolve **programação orientada a objetos, lógica, estruturas d
 </div>
 
 
-<h3>↳ ACTIVITY TELEMETRY</h3>
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=carlosscipiaodev&theme=react-dark&hide_border=true"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
-</div>
-
-
-
-<h3>↳ ACHIEVEMENT UNLOCKED / GITHUB TROPHIES</h3>
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=carlosscipiaodev&theme=algolia&no-frame=true&column=4"
-    width="100%"
-    alt="GitHub Trophies"
-  />
-</div>
-
-
-
 <h2>◈ 06 / CONTRIBUTION ENGINE</h2>
 
 <div align="center">
