@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 104" role="img" aria-label="Rodapé NEXUS - All systems nominal">
+<defs><linearGradient id="a" x1="0" x2="1"><stop stop-color="#07111E"/><stop offset=".5" stop-color="#0B1827"/><stop offset="1" stop-color="#06101E"/></linearGradient><linearGradient id="l" x1="0" x2="1"><stop stop-color="#214961"/><stop offset=".5" stop-color="#05D6EC"/><stop offset="1" stop-color="#214961"/></linearGradient></defs>
+<rect width="1200" height="104" rx="14" fill="url(#a)"/>
+<path d="M20 22H1180" stroke="url(#l)" opacity=".8"/><path d="M20 82H1180" stroke="#163D4E"/>
+<path d="M35 36V67H52M1149 36H1166V67" fill="none" stroke="#00BFD4" stroke-width="1.6"/>
+<circle cx="77" cy="51" r="5" fill="#00E5FF"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></circle>
+<text x="96" y="57" fill="#C6F4F7" font-size="15" font-family="Consolas,Monaco,monospace" letter-spacing="1.6">BUILDING THE NEXT VERSION OF MYSELF</text>
+<text x="1140" y="57" text-anchor="end" fill="#6EC5D2" font-size="13" font-family="Consolas,Monaco,monospace" letter-spacing="1.2">CV // ALL SYSTEMS NOMINAL</text>
+</svg>
