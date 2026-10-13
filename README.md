@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  <img src="./assets/jarvis-boot.svg" width="100%" alt="NEXUS SYSTEM — Interface de inicialização de Carlos Vinicius" />
+  <img src="./jarvis-boot.svg" width="100%" alt="NEXUS SYSTEM — Carlos Vinicius" /> width="100%" alt="NEXUS SYSTEM — Interface de inicialização de Carlos Vinicius" />
 
   <a href="https://github.com/carlosscipiaodev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=2800&amp;pause=1100&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=720&amp;height=54&amp;lines=%3E+Iniciando+ambiente+de+desenvolvimento...;%3E+Java+%7C+Python+%7C+Software+Engineering;%3E+Transformando+ideias+em+codigo.;%3E+Keep+building.+Keep+evolving._" alt="Animação de digitação com tecnologias e mensagem de boas-vindas" />
@@ -167,6 +167,6 @@ Minha jornada envolve **programação orientada a objetos, lógica, estruturas d
 <br />
 
 <div align="center">
-  <img src="./assets/jarvis-footer.svg" width="100%" alt="NEXUS: Building the next version of myself. All systems nominal." />
+  <img src="./jarvis-footer.svg" width="100%" alt="NEXUS SYSTEM FOOTER" /> width="100%" alt="NEXUS: Building the next version of myself. All systems nominal." />
   <sub>Made with <code>&lt;/&gt;</code>, curiosity and continuous improvement.</sub>
 </div>
