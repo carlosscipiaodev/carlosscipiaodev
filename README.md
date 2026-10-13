@@ -126,17 +126,29 @@ Minha jornada envolve **programação orientada a objetos, lógica, estruturas d
   </a>
 </div>
 
+
 <h3>↳ ACTIVITY TELEMETRY</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlosscipiaodev&amp;bg_color=080F1E&amp;color=A9C8D7&amp;line=00D4ED&amp;point=79F1ED&amp;area=true&amp;area_color=0E708B&amp;hide_border=true&amp;radius=9&amp;custom_title=GitHub%20Activity%20Log" width="100%" alt="Gráfico de atividade recente no GitHub" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=carlosscipiaodev&theme=react-dark&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </div>
+
+
 
 <h3>↳ ACHIEVEMENT UNLOCKED / GITHUB TROPHIES</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carlosscipiaodev&amp;theme=algolia&amp;no-bg=true&amp;no-frame=true&amp;row=1&amp;column=6&amp;margin-w=7&amp;margin-h=7" width="100%" alt="Troféus do GitHub" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=carlosscipiaodev&theme=algolia&no-frame=true&column=4"
+    width="100%"
+    alt="GitHub Trophies"
+  />
 </div>
+
 
 
 <h2>◈ 06 / CONTRIBUTION ENGINE</h2>
