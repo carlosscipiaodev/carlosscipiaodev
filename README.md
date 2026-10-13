@@ -138,17 +138,22 @@ Minha jornada envolve **programação orientada a objetos, lógica, estruturas d
   <img src="https://github-profile-trophy.vercel.app/?username=carlosscipiaodev&amp;theme=algolia&amp;no-bg=true&amp;no-frame=true&amp;row=1&amp;column=6&amp;margin-w=7&amp;margin-h=7" width="100%" alt="Troféus do GitHub" />
 </div>
 
+
 <h2>◈ 06 / CONTRIBUTION ENGINE</h2>
 
 <div align="center">
-  <sub><code>CONTRIBUTION GRID // AUTONOMOUS SNAKE PROTOCOL</code></sub>
+  <sub>
+    <code>CONTRIBUTION GRID // AUTONOMOUS SNAKE PROTOCOL</code>
+  </sub>
   <br /><br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosscipiaodev/carlosscipiaodev/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlosscipiaodev/carlosscipiaodev/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/carlosscipiaodev/carlosscipiaodev/output/github-contribution-grid-snake-dark.svg" alt="Snake animada percorrendo o gráfico de contribuições" width="100%" />
-  </picture>
+
+  <img
+    src="https://raw.githubusercontent.com/carlosscipiaodev/carlosscipiaodev/output/github-contribution-grid-snake.svg"
+    alt="Snake Animation"
+    width="100%"
+  />
 </div>
+
 
 <h2>◈ 07 / ESTABLISH CONNECTION</h2>
 
