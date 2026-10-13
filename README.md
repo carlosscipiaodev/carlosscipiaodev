@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/33409170/README.md)
+
 <!--
   ╔══════════════════════════════════════════════════════════════╗
   ║  NEXUS // GITHUB PROFILE • CARLOS VINICIUS                  ║
