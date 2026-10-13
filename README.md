@@ -154,6 +154,6 @@ Minha jornada envolve **programação orientada a objetos, lógica, estruturas d
 <br />
 
 <div align="center">
-  <img src="./jarvis-footer.svg" width="100%" alt="NEXUS SYSTEM FOOTER" /> width="100%" alt="NEXUS: Building the next version of myself. All systems nominal." />
+  <img src="./jarvis-footer.svg" width="100%" alt="NEXUS SYSTEM FOOTER" /> 
   <sub>Made with <code>&lt;/&gt;</code>, curiosity and continuous improvement.</sub>
 </div>
