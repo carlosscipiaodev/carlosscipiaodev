@@ -1,10 +1,15 @@
+name: Generate Profile Assets
 
-name: Generate Snake Animation
-
+# Gera a cobrinha e os cartões de estatísticas e publica tudo na branch "output".
+# Roda todo dia, manualmente (aba Actions) e sempre que este arquivo mudar.
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
@@ -13,6 +18,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -20,7 +28,22 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-dark
 
-      - name: Publish snake
+      - name: Generate stats cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: carlosscipiaodev
+          THEME: algolia
+          TIME_ZONE: America/Fortaleza
+          AUTO_PUSH: false
+
+      - name: Collect stats cards
+        run: |
+          sudo cp profile-summary-card-output/algolia/*.svg dist/
+          ls -la dist
+
+      - name: Publish assets
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

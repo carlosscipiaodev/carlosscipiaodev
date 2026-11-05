@@ -1,12 +1,3 @@
-
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  NEXUS // GITHUB PROFILE • CARLOS VINICIUS                  ║
-  ║  Tema: JARVIS-inspired / cyberpunk minimal • cyan + navy   ║
-  ║  SETUP: substitua carlosscipiaodev e os links SEU_* pelos seus. ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
   <img src="./jarvis-boot.svg" width="100%" alt="NEXUS SYSTEM — Carlos Vinicius" />
@@ -114,10 +105,10 @@ Minha jornada envolve **programação orientada a objetos, lógica, estruturas d
 
 <div align="center">
   <a href="https://github.com/carlosscipiaodev">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=carlosscipiaodev&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=080F1E&amp;title_color=00E5FF&amp;text_color=C8DAE6&amp;icon_color=64F0E5&amp;rank_icon=github&amp;locale=pt-br" alt="Estatísticas do GitHub" />
+    <img height="170" src="https://raw.githubusercontent.com/carlosscipiaodev/carlosscipiaodev/output/3-stats.svg" alt="Estatísticas do GitHub" />
   </a>
   <a href="https://github.com/carlosscipiaodev?tab=repositories">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosscipiaodev&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=080F1E&amp;title_color=00E5FF&amp;text_color=C8DAE6&amp;locale=pt-br" alt="Linguagens mais utilizadas" />
+    <img height="170" src="https://raw.githubusercontent.com/carlosscipiaodev/carlosscipiaodev/output/1-repos-per-language.svg" alt="Linguagens mais utilizadas" />
   </a>
   <br />
   <a href="https://github.com/carlosscipiaodev">
@@ -146,14 +137,11 @@ Minha jornada envolve **programação orientada a objetos, lógica, estruturas d
 
 <div align="center">
   <a href="https://github.com/carlosscipiaodev"><img src="https://img.shields.io/badge/GitHub-Explore%20Code-101827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-Send%20Message-00A4B5?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Enviar e-mail" /></a>
-  <a href="https://www.instagram.com/SEU_INSTAGRAM/"><img src="https://img.shields.io/badge/Instagram-Follow-AE46D7?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="./jarvis-footer.svg" width="100%" alt="NEXUS SYSTEM FOOTER" /> 
+  <img src="./jarvis-footer.svg" width="100%" alt="NEXUS SYSTEM FOOTER" />
   <sub>Made with <code>&lt;/&gt;</code>, curiosity and continuous improvement.</sub>
 </div>
